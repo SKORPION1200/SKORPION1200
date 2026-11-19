@@ -9,6 +9,8 @@ I maintain KOM-5A's public project documentation here: practical guides, officia
 | Resource | Start here |
 | --- | --- |
 | Project documentation | [KOM-5A on GitHub](https://github.com/SKORPION1200/kom-5a) · [Français](https://github.com/SKORPION1200/kom-5a/blob/main/README.fr.md) |
+| See the product | [Welcome, publishing, discovery and contact](https://github.com/SKORPION1200/kom-5a/blob/main/docs/product-tour.md) |
+| Explore a collaboration | [Partnerships and project review](https://github.com/SKORPION1200/kom-5a/blob/main/docs/partners.md) |
 | Learn and publish | [Getting started](https://github.com/SKORPION1200/kom-5a/blob/main/docs/getting-started.md) · [Listing guide](https://github.com/SKORPION1200/kom-5a/blob/main/docs/listing-guide.md) |
 | Understand K5A | [Internal units and service conditions](https://github.com/SKORPION1200/kom-5a/blob/main/docs/k5a.md) |
 | Images and presentation | [Light and dark screenshots](https://github.com/SKORPION1200/kom-5a/tree/main/media) · [FR/EN media kit](https://github.com/SKORPION1200/kom-5a/blob/main/media/press-kit.md) |
